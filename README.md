@@ -6,3 +6,5 @@ Black Jack, also known as Natural BlackJack, originated in France and has been s
    The game player can operate three pairs of cards at the same time.Each card can be freely matched with the card on the desktop. If a card has 21 points, or the player locks the card, the player will not operate it. If all cards are locked, the game will automatically compare with the dealer's brand. Then the game is over.At the same time, when the game is in progress, the player can use the props at the right time, which will make you win the game more relaxed.
     
    This app is mainly for users to experience classic BlackJack games, each user can get an unlimited number of points,can not be used as money, this product does not involve real gambling, Only available to users learning and entertainment.
+   
+If you find that the game has some buys, you can send me a message and I'll fix it as soon as possible. Thank you for your support.
